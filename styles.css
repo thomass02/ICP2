@@ -1,0 +1,46 @@
+
+.grid_container{
+    display: flex;
+    justify-content: center;
+}
+
+.grid {
+    display: grid;
+    /* Using "grid" makes a 70px x 70px grid pattern*/
+    grid: 70px 70px 70px / 70px 70px 70px;
+    /* Adds a 4px space in between boxes*/
+    grid-gap: 4px;
+}
+.grid > #block1 {
+    background-color: #92a8d1;
+}
+
+.grid > #block2 {
+    background-color: #92a8d1;
+}
+
+.grid > #block3 {
+    background-color: #92a8d1;
+}
+
+.grid > #block4 {
+    background-color: #92a8d1;
+}
+
+.grid > #block5 {
+    background-color: #92a8d1;
+}
+
+.grid > #block6 {
+    background-color: #92a8d1;
+}
+
+.grid > #block7 {
+    background-color: #92a8d1;
+}
+.grid > #block8 {
+    background-color: #92a8d1;
+}
+.grid > #block9 {
+    background-color: #92a8d1;
+}
